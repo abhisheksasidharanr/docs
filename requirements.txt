@@ -1,0 +1,6 @@
+flask
+torch
+transformers
+chardet
+python-docx
+PyPDF2
