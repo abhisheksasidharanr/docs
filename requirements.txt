@@ -4,3 +4,5 @@ transformers
 chardet
 python-docx
 PyPDF2
+gunicorn==21.2.0  # Required for deployment (optional for local development)
+requests==2.31.0  # If your app makes HTTP requests
